@@ -1,6 +1,6 @@
 ## Hi there 👋
 <br>
-16042023: We are having problems with our server that creates all the databases. This evening the server suddenly stopped (power). We hope to have a new server running asap.
+16042023: We are having problems with our server that creates all the databases. This evening the server suddenly stopped (power supply died and blew the main fuse). We hope to have a new server running asap.
 <br><br>
 17042023: new machine is ordered and paid (not sponsored, paid out of my own money) :) we hope that the old disk is ok, so we can get the scripts of it :)
 <br><br>
