@@ -1,6 +1,9 @@
 ## Hi there 👋
 
-17042023: We are having problems with our server that creates all the databases. Yesterday evening the server suddenly stopped (power). We hope to have a new server running asap.
+17042023: 
+We are having problems with our server that creates all the databases. Yesterday evening the server suddenly stopped (power). We hope to have a new server running asap.
+*update1 : new machine is ordered and paid :) *hopefully the old disk is ok, so we can get the scripts of it :)
+
 <!--
 
 **Here are some ideas to get you started:**
