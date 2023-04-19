@@ -1,6 +1,6 @@
 ## Hi there 👋
 <br>
-19042023: MD280/M390 firmware is generated and works again. Database is pushed for the first time again, still fixxing small issues. Database updates ran 3 times now without issues.
+19042023: MD280/M390 firmware is generated and works again. Database is pushed for the first time again, still fixxing small issues. Database updates ran a few times now without issues.
 <br><br>
 18042023: new server arrived and is installed.
 <br><br>
