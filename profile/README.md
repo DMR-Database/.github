@@ -1,6 +1,6 @@
 ## Hi there 👋
 <br>
-21062023: Thanx to a fellow ham, it seems that the tools download the old database instead of the new one. Please download the database from database-beta and use the tool to flash it. We will publish new versions asap.
+21062023: Thanx to a fellow ham, it seems that the tools download the old database instead of the new one. Please download the database from database-beta and use the tool to flash it. We will publish new versions asap. sibscribe to https://github.com/DMR-Database/database-tools/issues/7 to be notified.
 <br><br>
 19042023: MD280/M390 firmware is generated and works again. Database is pushed for the first time again, still fixxing small issues. Database updates ran a few times now without issues.
 <br><br>
