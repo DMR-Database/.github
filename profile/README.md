@@ -11,11 +11,17 @@ The DMR User Database app acts as a digital phonebook, giving you quick access t
 
 Key Features of DMR User Database:
 🔹 Comprehensive Search Options: Search for DMR users in RadioID, Hamvoip, DAPNET, NXDN, and Repeaters by Callsign, Radio ID, Name, or Location (City, State, or Country).
+
 📍 Interactive Maps: Discover nearby repeaters and hackerspaces with interactive maps to explore your local DMR network.
+
 🦊 Fox Hunting: Engage in exciting fox hunting activities by locating the first fox through the app.
+
 🔹 Database Export: Export your database for devices like Anytone and Pi-Star (available on Windows/macOS).
+
 🌍 Users Per Country: View the number of users in each country and explore the global reach of the DMR network.
+
 🔒 Offline Functionality: Enjoy full access to the user databases and features even when you are offline, making it ideal for areas with limited connectivity.
+
 📓 Logbook: Keep track of your radio contacts and activities with the built-in logbook feature, designed to log your callsigns, timestamps, and notes.
 
 Why You Should Download the DMR User Database App
