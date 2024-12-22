@@ -28,10 +28,9 @@ Why You Should Download the DMR User Database App
 The DMR User Database app is your go-to tool for connecting with the global DMR community. Whether you're a new user looking for contacts or an experienced operator searching for repeaters or DMR IDs, this app makes it easy to find exactly what you need. With interactive maps, offline functionality, and the ability to log your radio activity, you can stay connected to the DMR network and explore new radio experiences.
 
 Download the DMR User Database app today and keep the global DMR community at your fingertips!
-
-https://play.google.com/store/apps/details?id=com.einstein.dmr_database_app
 <br>
-29062024: We released a python script for downloading and converting the DMR Database check it out here -> <a href="https://github.com/DMR-Database/dmr-database-tool"> DMR-Database-Tool</a>
+https://play.google.com/store/apps/details?id=com.einstein.dmr_database_app
+
 
 
 <!--
