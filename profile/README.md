@@ -1,4 +1,4 @@
-## Hi there 👋
+## News : DMR User Database App Released 👋
 
 Introducing the DMR User Database App: Your Digital Phonebook for Digital Mobile Radios (22-12-2024)
 
