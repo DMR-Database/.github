@@ -6,14 +6,14 @@ As a Digital Mobile Radio (DMR) enthusiast, you understand the importance of hav
 
 Developed by PD2EMC, this app is designed specifically for DMR users, with powerful features that help you connect, communicate, and stay informed in the world of digital radio.
 
-What is the DMR User Database App?
+What is the DMR User Database App?<br>
 The DMR User Database App acts as a digital phonebook, giving you quick access to contact details of thousands of DMR users worldwide. It integrates multiple databases such as RadioID, Hamvoip, DAPNET, NXDN and Repeaters, allowing you to search for users by their Radio ID, Callsign, Name or even location. Whether you are looking for a new contact, repeaters in your area, or exploring the world of digital radio, this app has you covered.
 
 Key Features of DMR User Database:
 
-🔹 Comprehensive Search Options: Search for DMR users in RadioID, Hamvoip, DAPNET, NXDN, and Repeaters by Callsign, Radio ID, Name, or Location (City, State or Country).
+🔹 Comprehensive Search Options: Search for DMR users in RadioID, Hamvoip, DAPNET, NXDN, and Repeaters by Callsign, Radio ID, Name, or Location (City, State or Country) and lazy search thru all databases.
 
-📍 Interactive Maps: Discover nearby repeaters and hackerspaces with interactive maps to explore your local DMR network.
+📍 Interactive Maps: Discover nearby repeaters and hackerspaces with interactive maps.
 
 🦊 Fox Hunting: Engage in exciting fox hunting activities by locating the first fox through the app.
 
@@ -25,7 +25,7 @@ Key Features of DMR User Database:
 
 📓 Logbook: Keep track of your radio contacts and activities with the built-in logbook feature, designed to log your callsigns, timestamps, and notes.
 
-Why you should download the DMR User Database App
+Why you should download the DMR User Database App?<br>
 The DMR User Database app is your go-to tool for connecting with the global DMR community. Whether you're a new user looking for contacts or an experienced operator searching for repeaters or DMR IDs, this app makes it easy to find exactly what you need. With interactive maps, offline functionality and the ability to log your radio activity, you can stay connected to the DMR network and explore new radio experiences.
 
 Download the DMR User Database app today and keep the global DMR community at your fingertips!
