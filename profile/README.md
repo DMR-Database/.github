@@ -11,19 +11,19 @@ The DMR User Database App acts as a digital phonebook, giving you quick access t
 
 Key Features of DMR User Database:
 
-🔹 Comprehensive Search Options: Search for DMR users in RadioID, Hamvoip, DAPNET, NXDN, and Repeaters by Callsign, Radio ID, Name, or Location (City, State or Country) and lazy search thru all databases.
-
-📍 Interactive Maps: Discover nearby repeaters and hackerspaces with interactive maps.
-
-🦊 Fox Hunting: Engage in exciting fox hunting activities by locating the first fox through the app.
-
-🔹 Database Export: Export your database for devices like Anytone and Pi-Star (available on Windows/macOS).
+🔹 Comprehensive Search Options: Search for DMR users in RadioID, Hamvoip, DAPNET, NXDN, and Repeaters by Callsign, Radio ID, Name, Location (City, State or Country) or lazy search thru all databases by Callsign.
 
 🌍 Users Per Country: View the number of users in each country and explore the global reach of the DMR network.
 
-🔒 Offline Functionality: Enjoy full access to the user databases and features even when you are offline, making it ideal for areas with limited connectivity.
-
 📓 Logbook: Keep track of your radio contacts and activities with the built-in logbook feature, designed to log your callsigns, timestamps, and notes.
+
+🔹 Database Export: Export your database for devices like Anytone and Pi-Star (available on Windows/macOS).
+
+🦊 Fox Hunting: Engage in exciting fox hunting activities by locating the first fox through the app.
+
+📍 Interactive Maps: Discover nearby repeaters and hackerspaces with interactive maps.
+
+🔒 Offline Functionality: Enjoy full access to the user databases and most features even when you are offline, making it ideal for areas with limited connectivity.
 
 Why you should download the DMR User Database App?<br>
 The DMR User Database app is your go-to tool for connecting with the global DMR community. Whether you're a new user looking for contacts or an experienced operator searching for repeaters or DMR IDs, this app makes it easy to find exactly what you need. With interactive maps, offline functionality and the ability to log your radio activity, you can stay connected to the DMR network and explore new radio experiences.
