@@ -30,9 +30,9 @@ The DMR User Database app is your go-to tool for connecting with the global DMR 
 
 Download the DMR User Database app today and keep the global DMR community at your fingertips!
 <br>
-<a href="https://play.google.com/store/apps/details?id=com.einstein.dmr_database_app"><img src="https://raw.githubusercontent.com/DMR-Database/dmr-database-appdata/refs/heads/main/dl-googleplay.png" alt="Download here" style="width:240px;"></a>
+<a href="https://play.google.com/store/apps/details?id=com.einstein.dmr_database_app"><img src="https://raw.githubusercontent.com/DMR-Database/dmr-database-appdata/refs/heads/main/dl-googleplay.png" alt="Download here" style="width:240px;height:80px;"></a>
 <a href="https://drive.google.com/file/d/1phdBYsV0bFWFn_FGd5cigQKR5XkQFmrK/view?usp=drive_link"><img src="https://raw.githubusercontent.com/DMR-Database/dmr-database-appdata/refs/heads/main/dl-windows.png" alt="Download windows version from Google Drive" style="width:240px;height:80px;"></a>
-<a href="https://drive.google.com/file/d/1cdYUKairqGOvbiEDEWqJF8Z5-yMmZwFb/view?usp=drive_link"><img src="https://raw.githubusercontent.com/DMR-Database/dmr-database-appdata/refs/heads/main/dl-macos.png" alt="Download windows version from Google Drive" style="width:240px;height:80px;"></a>
+<a href="https://drive.google.com/file/d/1cdYUKairqGOvbiEDEWqJF8Z5-yMmZwFb/view?usp=drive_link"><img src="https://raw.githubusercontent.com/DMR-Database/dmr-database-appdata/refs/heads/main/dl-macos.png" alt="Download macos version from Google Drive" style="width:240px;height:80px;"></a>
 
 
 
