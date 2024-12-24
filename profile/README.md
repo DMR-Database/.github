@@ -37,7 +37,7 @@ Download the DMR User Database app today and keep the global DMR community at yo
        title="Download Android version from Google Play" 
        style="width:240px;height:80px;">
 </a>
-<a href="https://drive.google.com/file/d/1phdBYsV0bFWFn_FGd5cigQKR5XkQFmrK/view?usp=drive_link">
+<a href="https://drive.google.com/file/d/1phdBYsV0bFWFn_FGd5cigQKR5XkQFmrK/view?usp=drive_link" target="">
   <img src="https://raw.githubusercontent.com/DMR-Database/dmr-database-appdata/refs/heads/main/dl-windows.png" 
        alt="Download Windows version from Google Drive" 
        title="Download Windows version from Google Drive" 
