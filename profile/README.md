@@ -129,4 +129,43 @@ Download vandaag nog de DMR User Database App en houd de wereldwijde DMR-communi
 Download Android-versie via Google Play: https://play.google.com/store/apps/developer?id=PD2EMC
 Download Windows-versie via Google Drive: https://drive.google.com/file/d/1phdBYsV0bFWFn_FGd5cigQKR5XkQFmrK/view?usp=drive_link
 Download macOS-versie via Google Drive: https://drive.google.com/file/d/1cdYUKairqGOvbiEDEWqJF8Z5-yMmZwFb/view?usp=drive_link
+
+-- german --
+HoHoHo
+
+Da ist es endlich :)
+
+Einführung der DMR User Database App: Ihr digitales Telefonbuch für Digital Mobile Radios
+
+Als Digital Mobile Radio (DMR)-Enthusiast wissen Sie, wie wichtig es ist, einfachen Zugang zu detaillierten Kontaktinformationen anderer Nutzer im Netzwerk zu haben. Die DMR User Database App bietet Ihnen ein umfassendes digitales Telefonbuch für die DMR-Community, sodass Sie Radio-IDs, Rufzeichen und Benutzerinformationen mit nur wenigen Klicks finden können.
+
+Entwickelt von PD2EMC, ist diese App speziell für DMR-Nutzer konzipiert und bietet leistungsstarke Funktionen, die Ihnen helfen, sich zu vernetzen, zu kommunizieren und auf dem Laufenden zu bleiben in der Welt des digitalen Radios.
+
+Was ist die DMR User Database App?
+Die DMR User Database App fungiert als digitales Telefonbuch und bietet Ihnen schnellen Zugriff auf die Kontaktdaten von Tausenden von DMR-Nutzern weltweit. Sie integriert mehrere Datenbanken wie RadioID, Hamvoip, DAPNET, NXDN und Repeaters, sodass Sie nach Nutzern anhand ihrer Radio-ID, ihres Rufzeichens, ihres Namens oder sogar ihres Standorts suchen können. Egal, ob Sie einen neuen Kontakt suchen, Repeater in Ihrer Nähe finden oder die Welt des digitalen Radios erkunden möchten, diese App bietet alles, was Sie brauchen.
+
+Hauptfunktionen der DMR User Database:
+🔹 Umfassende Suchoptionen: Suchen Sie nach DMR-Nutzern in RadioID, Hamvoip, DAPNET, NXDN und Repeaters anhand von Rufzeichen, Radio-ID, Name, Standort (Stadt, Bundesland oder Land) oder führen Sie eine Lazy-Suche durch alle Datenbanken nach Rufzeichen durch.
+
+🌍 Nutzer pro Land: Sehen Sie die Anzahl der Nutzer in jedem Land und erkunden Sie die globale Reichweite des DMR-Netzwerks.
+
+📓 Logbuch: Verfolgen Sie Ihre Funkkontakte und Aktivitäten mit der integrierten Logbuchfunktion, die darauf ausgelegt ist, Ihre Rufzeichen, Zeitstempel und Notizen zu speichern.
+
+🔹 Datenbankexport: Exportieren Sie Ihre Datenbank für Geräte wie Anytone und Pi-Star (verfügbar für Windows/macOS).
+
+🦊 Fuchsjagd: Nehmen Sie an spannenden Fuchsjagd-Aktivitäten teil, indem Sie den ersten Fuchs über die App lokalisieren.
+
+📍 Interaktive Karten: Entdecken Sie nahegelegene Repeater und Hackerspaces mit interaktiven Karten.
+
+🔒 Offline-Funktionalität: Genießen Sie vollen Zugriff auf die Benutzerdatenbanken und die meisten Funktionen, selbst wenn Sie offline sind – ideal für Gebiete mit eingeschränkter Konnektivität.
+
+Warum Sie die DMR User Database App herunterladen sollten
+Die DMR User Database App ist Ihr unverzichtbares Tool, um sich mit der globalen DMR-Community zu verbinden. Egal, ob Sie ein neuer Nutzer sind, der Kontakte sucht, oder ein erfahrener Betreiber, der nach Repeatern oder DMR-IDs sucht – diese App macht es einfach, genau das zu finden, was Sie brauchen. Mit interaktiven Karten, Offline-Funktionalität und der Möglichkeit, Ihre Funkaktivitäten zu protokollieren, bleiben Sie mit dem DMR-Netzwerk verbunden und können neue Funkerfahrungen machen.
+
+Laden Sie die DMR User Database App noch heute herunter und haben Sie die globale DMR-Community jederzeit zur Hand!
+
+Android-Version über Google Play herunterladen: https://play.google.com/store/apps/developer?id=PD2EMC
+Windows-Version über Google Drive herunterladen: https://drive.google.com/file/d/1phdBYsV0bFWFn_FGd5cigQKR5XkQFmrK/view?usp=drive_link
+macOS-Version über Google Drive herunterladen: https://drive.google.com/file/d/1cdYUKairqGOvbiEDEWqJF8Z5-yMmZwFb/view?usp=drive_link
+
 -->
