@@ -1,6 +1,6 @@
 ## News : DMR User Database App Released 👋
 
-Introducing the DMR User Database App: Your Digital Phonebook for Digital Mobile Radios (22-12-2024)
+Introducing the DMR User Database App: Your Digital Phonebook for Digital Mobile Radios (24-12-2024)
 
 As a Digital Mobile Radio (DMR) enthusiast, you understand the importance of having easy access to detailed contact information about other users in the network. The DMR User Database app is here to provide you with a comprehensive digital phonebook for the DMR community, making it easier to find Radio IDs, Callsigns and user details in just a few taps.
 
