@@ -7,11 +7,11 @@ As a Digital Mobile Radio (DMR) enthusiast, you understand the importance of hav
 Developed by PD2EMC, this app is designed specifically for DMR users, with powerful features that help you connect, communicate, and stay informed in the world of digital radio.
 
 What is the DMR User Database App?<br>
-The DMR User Database App acts as a digital phonebook, giving you quick access to contact details of thousands of DMR users worldwide. It integrates multiple databases such as RadioID, Hamvoip, DAPNET, NXDN and Repeaters, allowing you to search for users by their Radio ID, Callsign, Name or even location. Whether you are looking for a new contact, repeaters in your area, or exploring the world of digital radio, this app has you covered.
+The DMR User Database App acts as a digital phonebook, giving you quick access to contact details of thousands of DMR users worldwide. It integrates multiple databases such as  RadioID, NXDN, Hamvoip, HamschackHotline, Dapnet, and Repeaters Database, allowing you to search for users by their Radio ID (Extension), Callsign, Name or even location. Whether you are looking for a new contact, repeaters in your area, or exploring the world of digital radio, this app has you covered.
 
 Key Features of DMR User Database:
 
-🔹 Comprehensive Search Options: Search for DMR users in RadioID, NXDN, Hamvoip, HamschackHotline, Dapnet, and Repeaters by Callsign, Radio ID, Name, Location (City, State or Country) or lazy search thru all databases by Callsign.
+🔹 Comprehensive Search Options: Search for DMR users in RadioID, NXDN, Hamvoip, HamschackHotline, Dapnet, and Repeaters Database by Callsign, Radio ID (Extension), Name, Location (City, State or Country) or lazy search thru all databases by Callsign.
 
 🌍 Users Per Country: View the number of users in each country and explore the global reach of the DMR network.
 
