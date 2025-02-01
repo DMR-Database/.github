@@ -11,7 +11,7 @@ The DMR User Database App acts as a digital phonebook, giving you quick access t
 
 Key Features of DMR User Database:
 
-🔹 Comprehensive Search Options: Search for DMR users in RadioID, NXDN, Hamvoip, HamschackHotline, Dapnet, and Repeaters Database by Callsign, Radio ID (Extension), Name, Location (City, State or Country) or lazy search thru all databases by Callsign.
+🔹 Comprehensive Search Options: Search for DMR users in RadioID, NXDN, Hamvoip, HamshackHotline, Dapnet, and Repeaters Database by Callsign, Radio ID (Extension), Name, Location (City, State or Country) or lazy search thru all databases by Callsign.
 
 🌍 Users Per Country: View the number of users in each country and explore the global reach of the DMR network.
 
