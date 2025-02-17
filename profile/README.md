@@ -23,7 +23,7 @@ Key Features of DMR User Database App:
 
 🔒 Offline Functionality: Enjoy full access to the user databases and most features even when you are offline, making it ideal for areas with limited connectivity.
 
-Why you should download the DMR User Database App?
+Why you should download the DMR User Database App?<br>
 The DMR User Database app is your go-to tool for connecting with the global DMR community. Whether you're a new user looking for contacts or an experienced operator searching for repeaters or DMR IDs, this app makes it easy to find exactly what you need. With interactive maps, offline functionality and the ability to log your radio activity, you can stay connected to the DMR network and explore new radio experiences.
 
 Download the DMR User Database app today and keep the global DMR community at your fingertips!
