@@ -53,7 +53,7 @@ App Store (not completed yet):
        style="width:240px;height:80px;">
 </a>
 <br>
-Others:
+Others (thru Google Drive):
 <br>
 <a href="https://drive.google.com/file/d/1phdBYsV0bFWFn_FGd5cigQKR5XkQFmrK/view?usp=drive_link" target="_blank">
   <img src="https://raw.githubusercontent.com/DMR-Database/dmr-database-appdata/refs/heads/main/dl-windows.png" 
