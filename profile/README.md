@@ -37,6 +37,14 @@ Don't download this program from any other site then Google Play Store to get th
        title="Download Android version from Google Play" 
        style="width:240px;height:80px;">
 </a>
+
+<a href="https://apps.apple.com/us/app/dmr-user-database/id6749166551" target="_blank"> <!--- https://play.google.com/store/apps/details?id=com.einstein.dmr_database_app"> -->
+  <img src="https://raw.githubusercontent.com/DMR-Database/dmr-database-appdata/refs/heads/main/dl-googleplay.png" 
+       alt="Download MacOS version from App Store" 
+       title="Download MacOS version from App Store" 
+       style="width:240px;height:80px;">
+</a>
+
 <a href="https://drive.google.com/file/d/1phdBYsV0bFWFn_FGd5cigQKR5XkQFmrK/view?usp=drive_link" target="_blank">
   <img src="https://raw.githubusercontent.com/DMR-Database/dmr-database-appdata/refs/heads/main/dl-windows.png" 
        alt="Download Windows version from Google Drive" 
