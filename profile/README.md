@@ -31,6 +31,7 @@ Download the DMR User Database app today and keep the global DMR community at yo
 Don't download this program from any other site then Google Play Store to get the latest version and upgrades visit the Play Store ->>> <a href="https://play.google.com/store/apps/details?id=com.einstein.dmr_database_app">here</a> :)
 
 <br>
+App Store :
 <a href="https://play.google.com/store/apps/developer?id=PD2EMC" target="_blank"> <!--- https://play.google.com/store/apps/details?id=com.einstein.dmr_database_app"> -->
   <img src="https://raw.githubusercontent.com/DMR-Database/dmr-database-appdata/refs/heads/main/dl-googleplay.png" 
        alt="Download Android version from Google Play" 
@@ -50,6 +51,7 @@ Don't download this program from any other site then Google Play Store to get th
        style="width:240px;height:80px;">
 </a>
 <br>
+Google Drive :
 <a href="https://drive.google.com/file/d/1phdBYsV0bFWFn_FGd5cigQKR5XkQFmrK/view?usp=drive_link" target="_blank">
   <img src="https://raw.githubusercontent.com/DMR-Database/dmr-database-appdata/refs/heads/main/dl-windows.png" 
        alt="Download Windows version from Google Drive" 
