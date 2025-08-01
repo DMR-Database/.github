@@ -39,7 +39,7 @@ Don't download this program from any other site then Google Play Store to get th
 </a>
 
 <a href="https://apps.apple.com/us/app/dmr-user-database/id6749166551" target="_blank"> <!--- https://play.google.com/store/apps/details?id=com.einstein.dmr_database_app"> -->
-  <img src="https://raw.githubusercontent.com/DMR-Database/dmr-database-appdata/refs/heads/main/dl-googleplay.png" 
+  <img src="https://raw.githubusercontent.com/DMR-Database/.github/refs/heads/main/macos-store.png" 
        alt="Download MacOS version from App Store" 
        title="Download MacOS version from App Store" 
        style="width:240px;height:80px;">
