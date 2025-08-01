@@ -40,14 +40,14 @@ Don't download this program from any other site then Google Play Store to get th
 
 <a href="https://apps.apple.com/us/app/dmr-user-database/id6749166551" target="_blank"> <!--- https://play.google.com/store/apps/details?id=com.einstein.dmr_database_app"> -->
   <img src="https://raw.githubusercontent.com/DMR-Database/.github/refs/heads/main/mac-store.png" 
-       alt="Download MacOS version from App Store" 
-       title="Download MacOS version from App Store" 
+       alt="Download macOS version from App Store" 
+       title="Download macOS version from App Store" 
        style="width:240px;height:80px;">
 </a>
 <a href="https://apps.apple.com/us/app/dmr-user-database/id6749166551" target="_blank"> <!--- https://play.google.com/store/apps/details?id=com.einstein.dmr_database_app"> -->
   <img src="https://raw.githubusercontent.com/DMR-Database/.github/refs/heads/main/ios-store.png" 
-       alt="Download IOS version from App Store" 
-       title="Download IOS version from App Store" 
+       alt="Download iOS version from App Store" 
+       title="Download iOS version from App Store" 
        style="width:240px;height:80px;">
 </a>
 
