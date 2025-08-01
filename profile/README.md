@@ -29,7 +29,7 @@ The DMR User Database app is your go-to tool for connecting with the global DMR 
 Download the DMR User Database app today and keep the global DMR community at your fingertips!
 
 <br>
-App Store :
+Google Play:
 <br>
 <a href="https://play.google.com/store/apps/developer?id=PD2EMC" target="_blank"> <!--- https://play.google.com/store/apps/details?id=com.einstein.dmr_database_app"> -->
   <img src="https://raw.githubusercontent.com/DMR-Database/dmr-database-appdata/refs/heads/main/dl-googleplay.png" 
@@ -37,6 +37,9 @@ App Store :
        title="Download Android version from Google Play" 
        style="width:240px;height:80px;">
 </a>
+<br>
+App Store (not completed yet):
+<br>
 <a href="https://apps.apple.com/us/app/dmr-user-database/id6749166551" target="_blank"> <!--- https://play.google.com/store/apps/details?id=com.einstein.dmr_database_app"> -->
   <img src="https://raw.githubusercontent.com/DMR-Database/.github/refs/heads/main/mac-store.png" 
        alt="Download macOS version from App Store" 
@@ -50,7 +53,7 @@ App Store :
        style="width:240px;height:80px;">
 </a>
 <br>
-Google Drive :
+Others:
 <br>
 <a href="https://drive.google.com/file/d/1phdBYsV0bFWFn_FGd5cigQKR5XkQFmrK/view?usp=drive_link" target="_blank">
   <img src="https://raw.githubusercontent.com/DMR-Database/dmr-database-appdata/refs/heads/main/dl-windows.png" 
