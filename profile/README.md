@@ -28,8 +28,6 @@ The DMR User Database app is your go-to tool for connecting with the global DMR 
 
 Download the DMR User Database app today and keep the global DMR community at your fingertips!
 
-Don't download this program from any other site then Google Play Store to get the latest version and upgrades visit the Play Store ->>> <a href="https://play.google.com/store/apps/details?id=com.einstein.dmr_database_app">here</a> :)
-
 <br>
 App Store :
 <br>
