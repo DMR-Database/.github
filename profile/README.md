@@ -38,7 +38,7 @@ Google Play:
        style="width:240px;height:80px;">
 </a>
 <br>
-App Store (not completed yet):
+App Store (only macos untill now):
 <br>
 <a href="https://apps.apple.com/us/app/dmr-user-database/id6749166551" target="_blank"> <!--- https://play.google.com/store/apps/details?id=com.einstein.dmr_database_app"> -->
   <img src="https://raw.githubusercontent.com/DMR-Database/.github/refs/heads/main/mac-store.png" 
@@ -46,6 +46,9 @@ App Store (not completed yet):
        title="Download macOS version from App Store" 
        style="width:240px;height:80px;">
 </a>
+<video src="path/to/video.mp4" controls="controls" width="600">
+  Your browser does not support the video tag.
+</video>
 <a href="https://apps.apple.com/us/app/dmr-user-database/id6749166551" target="_blank"> <!--- https://play.google.com/store/apps/details?id=com.einstein.dmr_database_app"> -->
   <img src="https://raw.githubusercontent.com/DMR-Database/.github/refs/heads/main/ios-store.png" 
        alt="Download iOS version from App Store" 
