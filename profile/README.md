@@ -46,7 +46,7 @@ App Store (only macos untill now):
        title="Download macOS version from App Store" 
        style="width:240px;height:80px;">
 </a>
-<video src="path/to/video.mp4" controls="controls" width="600">
+<video src="https://github.com/DMR-Database/.github/raw/refs/heads/main/dmr%20user%20database%20-%20macos.mp4" controls="controls" width="600">
   Your browser does not support the video tag.
 </video>
 <a href="https://apps.apple.com/us/app/dmr-user-database/id6749166551" target="_blank"> <!--- https://play.google.com/store/apps/details?id=com.einstein.dmr_database_app"> -->
