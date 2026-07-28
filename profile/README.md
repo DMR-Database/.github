@@ -1,11 +1,8 @@
----
-layout: default
-title: DMR User Database App
----
+
 <link rel="icon" href="/favicon.ico" type="image/x-icon">
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DMR-Database/dmr-database-appdata/refs/heads/main/logo.png" alt="DMR User Database logo" width="160">
+  <img src="https://raw.githubusercontent.com/DMR-Database/dmr-database-appdata/refs/heads/main/logo.png" alt="DMR User Database logo" width="320">
 </p>
 
 ## DMR User Database App
